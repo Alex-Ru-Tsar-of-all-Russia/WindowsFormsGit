@@ -9,6 +9,7 @@ namespace WindowsFormsGit
             InitializeComponent();
             this.Text = "Git";
             this.Text = "newGit";
+            int b = 5;
         }
     }
 }
